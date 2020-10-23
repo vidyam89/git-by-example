@@ -1,3 +1,3 @@
 multiply <- function(a,b) {
-    a*b
+    return (a*b)
 }
